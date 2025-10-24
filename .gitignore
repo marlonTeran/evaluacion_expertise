@@ -1,0 +1,15 @@
+
+# Created by https://www.gitignore.io/api/node,linux,macos,windows,visualstudio,jetbrains+all
+# Edit at https://www.gitignore.io/?templates=node,linux,macos,windows,visualstudio,jetbrains+all
+
+### JetBrains+all ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+
+# Dependency directories
+node_modules/
+coverage/
+package-lock.json
+
