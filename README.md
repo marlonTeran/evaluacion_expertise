@@ -2,8 +2,10 @@
 Recomendaciones::
     - usar node v.20.18
 
-Ejecucion::
+Instalar librerias::
     - npm install
+
+Ejecucion de Test:
     - npm test
 
 
